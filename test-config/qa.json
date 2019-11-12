@@ -1,0 +1,8 @@
+{
+  "search": {
+    "base_url": "https://www.goodrx.com/",
+    "domain": "goodrx.com",
+    "cookie_name": "grx_internal_user",
+    "cookie_value": "true"
+  }
+}
