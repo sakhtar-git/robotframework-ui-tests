@@ -52,7 +52,7 @@ Other test cases can be automated for Desktop and Mobile - Web UI:
 
 ### Running the tests
 
-* Make sure you are at the right directory - *sdet-assignmnet*
+* Make sure you are at the right directory - robotframework-ui-tests
 * From command line -  "robot --loglevel DEBUG -v TEST_ENV:DEV resources/ui-tests/goodRxSearch.robot"
 
 ### Review the test results
