@@ -15,7 +15,7 @@ and verify GoodRx website
 	2) pip install --upgrade robotframework-seleniumlibrary
 
 
-The automation framework designed to support web UI test is strtured as follows:
+The automation framework designed to support web UI test is structured as follows:
 ```
      |-- resources
            |- keywords
