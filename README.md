@@ -1,4 +1,4 @@
-# SDET Assigment
+# Robot Framework Project
 
 developed in Robot Framework
 
